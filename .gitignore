@@ -1,0 +1,39 @@
+# Ignore build directories and files
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# .NET Core files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files (other)
+*.pdb
+*.log
+
+# JetBrains Rider project files
+.idea/
+
+# VS Code files
+.vscode/
+
+# User-specific files in Visual Studio for Mac
+.vscode/
+
+# ASP.NET Core
+# /wwwroot/
+
+# macOS files
+.DS_Store
